@@ -68,10 +68,12 @@ public class VulnerabilitiesParser {
 		vb.setLikelihood(2.5f);
 		
 		// Set standard vulnerability fields based on input
-		vb.setCategory(dependencyAdvisory.getTitle()==null?"Insecure Deployment":dependencyAdvisory.getTitle());
-		vb.setSubCategory(dependencyAdvisory.getTitle()==null?"Vulnerable Dependency":null);
+		vb.setCategory("Insecure Deployment");
+		vb.setSubCategory("Unpatched Application");
 		vb.setFileName(dependencyName);
 		vb.setPriority(Priority.Critical);
+		
+		vb.setVulnerabilityAbstract(dependencyAdvisory.getTitle());
 		
 		// Set custom attributes based on input
 		vb.setStringCustomAttributeValue(CustomVulnAttribute.DependencyVersion, dependencyVersion);
