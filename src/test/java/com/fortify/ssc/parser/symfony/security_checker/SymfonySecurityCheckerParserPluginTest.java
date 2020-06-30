@@ -41,7 +41,6 @@ import com.fortify.plugin.api.ScanData;
 import com.fortify.plugin.api.ScanEntry;
 import com.fortify.plugin.api.StaticVulnerabilityBuilder;
 import com.fortify.plugin.api.VulnerabilityHandler;
-import com.fortify.ssc.parser.symfony.security_checker.SymfonySecurityCheckerParserPlugin;
 
 class SymfonySecurityCheckerParserPluginTest {
 	private static final String TEST_RESOURCE_NAME = "symfony_security_checker_sample1.json";
