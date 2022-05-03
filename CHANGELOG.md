@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.4](https://www.github.com/fortify-ps/fortify-ssc-parser-symfony-security-checker/compare/v1.0.3...v1.0.4) (2022-05-03)
+
+
+### Bug Fixes
+
+* Add missing changelog entry in previous release ([d6d0fb8](https://www.github.com/fortify-ps/fortify-ssc-parser-symfony-security-checker/commit/d6d0fb8d85dabbe93b22ddf7f88950a849303b57))
+* Update (potentially vulnerable) dependency versions ([b7057be](https://www.github.com/fortify-ps/fortify-ssc-parser-symfony-security-checker/commit/b7057be891e40f4b59d5defbde99957544c0342f))
+
 ### [1.0.3](https://www.github.com/fortify-ps/fortify-ssc-parser-symfony-security-checker/compare/v1.0.2...v1.0.3) (2022-05-03)
 
 
