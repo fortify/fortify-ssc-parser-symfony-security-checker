@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/fortify-ps/fortify-ssc-parser-symfony-security-checker/compare/v1.0.2...v1.0.3) (2022-05-03)
+
+
+### Bug Fixes
+
+* Improve upload instructions in README.md ([6551252](https://www.github.com/fortify-ps/fortify-ssc-parser-symfony-security-checker/commit/6551252c617543efe6524f243768779cea2d5933))
+
 ### [1.0.2](https://www.github.com/fortify-ps/fortify-ssc-parser-symfony-security-checker/compare/v1.0.1...v1.0.2) (2021-03-11)
 
 
