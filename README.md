@@ -39,6 +39,7 @@ Use the following steps to migrate from this parser plugin to the Local PHP Secu
 
 <!-- START-INCLUDE:repo-resources.md -->
 
+* **Usage**: [USAGE.md](USAGE.md)
 * **Releases**: https://github.com/fortify/fortify-ssc-parser-symfony-security-checker/releases
     * _Development releases may be unstable or non-functional. The `*-thirdparty.zip` file is for informational purposes only and does not need to be downloaded._
 * **Sample input files**: [sampleData](sampleData)
